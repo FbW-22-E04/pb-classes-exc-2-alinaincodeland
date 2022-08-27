@@ -26,5 +26,5 @@
 - The `Manager` class will need the addition of a `managedEmployees` array
 
 - The `Manager` class will need two methods:
-  - `addManagedEmployee` to add a managed employe to the `managedEmployees` array
+  - `addManagedEmployee` to add a managed employee to the `managedEmployees` array
   - `removeManagedEmployee` to remove a managed employee from the `managedEmployees` array
